@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m yshouishida👋<br>A 2nd-year BSIT student learning web development, with experience in MySQL, PostgreSQL, and IoT-based systems.<br>I like building real-world projects that combine software and hardware to solve practical problems.
+Hi, I’m Jervis Verano👋<br>A 2nd-year BSIT student learning web development, with experience in MySQL, PostgreSQL, and IoT-based systems.<br>I like building real-world projects that combine software and hardware to solve practical problems.
 
 
 ## 🌐 Socials:
