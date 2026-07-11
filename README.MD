@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Jervis Verano 👋<br>A 2nd-year BSIT student learning web development, with experience in IoT-based systems. I like building real-world projects that combine software and hardware to solve practical problems.
+Hi, I’m Jervis Verano 👋<br>A 3rd-year BSIT student learning web development, with experience in IoT-based systems. I like building real-world projects that combine software and hardware to solve practical problems.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jervis.Verano11) 
