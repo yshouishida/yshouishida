@@ -11,4 +11,6 @@ Hi, I’m Jervis Verano👋<br>A 3rd-year BSIT student learning web development,
 ![](https://streak-stats.demolab.com/?user=yshouishida&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yshouishida&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![snake gif](https://github.com/yshouishida/yshouishida/blob/output/github-contribution-grid-snake.gif)
+
 ---
