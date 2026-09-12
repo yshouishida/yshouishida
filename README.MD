@@ -20,4 +20,4 @@ Hi, I’m Jervis Verano👋<br>A 3rd-year BSIT student learning web development,
 
 ---
 
-![snake gif](https://raw.githubusercontent.com/yshouishida/yshouishida/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/yshouishida/yshouishida/output/github-contribution-grid-snake-dark.svg)
